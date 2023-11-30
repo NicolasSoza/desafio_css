@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+header{
+
+    background-image: url("/Assets/img/20160807_151727\ 2.jpg");
+    background-size: cover;
+    height: 500px;
+    color: aliceblue;
+    font-size: xx-large;
+    text-align:center;
+    text-shadow: #010A48;
+}
+
+header h1 {
+    margin:0;
+    font-weight: 800;
+    height: 65px;
+
+}
+
+
+.items img {
+    width: 35%;
+    border: solid 8px #010A48;
+    border-radius: 10px;
+    margin: 20%;
+}
+
+.items td h2{
+    font-size: xx-large;
+    margin-block-end: 3%;
+    text-align: left;
+
+}
+
+.items td p {
+    color: black;
+    font-size:x-large;
+}
+
+footer{
+    text-align: center;
+    font-size:xx-large;
+    background-color: #010A48;
+}
